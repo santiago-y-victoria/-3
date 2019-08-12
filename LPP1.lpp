@@ -13,3 +13,4 @@
  ESCRIBA "LA RESTA ENTRE ",A," Y " ,B," ES:",C
  LLAMAR NUEVA_LINEA
  FIN
+// se recomienda usar texto para codificar en minuscula
